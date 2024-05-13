@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CKO0THPNnFDj5DoGb7dez/TIRpri96WEnApKCm8lszA=",
+  "Hash": "mJgplkpAVBqRY/0/eqKP5tWfXAGx344smeGaPsKtnWE=",
   "Source": "Pronia",
   "BasePath": "_content/Pronia",
   "Mode": "Default",
@@ -15331,6 +15331,44 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\modernizr-3.11.2.min.js"
     },
     {
+      "Identity": "C:\\Users\\Kamil\\Desktop\\Pronia\\Pronia\\wwwroot\\imgs\\products\\eew1xsvl.55h.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kamil\\Desktop\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "imgs/products/eew1xsvl.55h.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\products\\eew1xsvl.55h.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Kamil\\Desktop\\Pronia\\Pronia\\wwwroot\\imgs\\products\\glbgh5qi.kyq.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kamil\\Desktop\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "imgs/products/glbgh5qi.kyq.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\products\\glbgh5qi.kyq.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Kamil\\Desktop\\Pronia\\Pronia\\wwwroot\\imgs\\products\\jdtbnwqj.x0j.jpg",
       "SourceId": "Pronia",
       "SourceType": "Discovered",
@@ -15348,6 +15386,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\products\\jdtbnwqj.x0j.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Kamil\\Desktop\\Pronia\\Pronia\\wwwroot\\imgs\\products\\t15fgxej.nzj.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kamil\\Desktop\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "imgs/products/t15fgxej.nzj.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\products\\t15fgxej.nzj.jpg"
     }
   ]
 }

@@ -497,6 +497,7 @@ C:\Users\Kamil\Desktop\Pronia\Pronia\obj\Debug\net8.0\Pronia.csproj.CoreCompileI
 C:\Users\Kamil\Desktop\Pronia\Pronia\obj\Debug\net8.0\Pronia.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Kamil\Desktop\Pronia\Pronia\obj\Debug\net8.0\Pronia.RazorAssemblyInfo.cache
 C:\Users\Kamil\Desktop\Pronia\Pronia\obj\Debug\net8.0\Pronia.RazorAssemblyInfo.cs
+C:\Users\Kamil\Desktop\Pronia\Pronia\obj\Debug\net8.0\Pronia.sourcelink.json
 C:\Users\Kamil\Desktop\Pronia\Pronia\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Kamil\Desktop\Pronia\Pronia\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Kamil\Desktop\Pronia\Pronia\obj\Debug\net8.0\staticwebassets\msbuild.Pronia.Microsoft.AspNetCore.StaticWebAssets.props

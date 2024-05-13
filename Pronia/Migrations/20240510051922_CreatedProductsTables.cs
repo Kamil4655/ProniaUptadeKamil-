@@ -5,10 +5,9 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Pronia.Migrations
 {
-    /// <inheritdoc />
     public partial class CreatedProductsTables : Migration
     {
-        /// <inheritdoc />
+     
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
@@ -60,7 +59,6 @@ namespace Pronia.Migrations
                 column: "ProductId");
         }
 
-        /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(

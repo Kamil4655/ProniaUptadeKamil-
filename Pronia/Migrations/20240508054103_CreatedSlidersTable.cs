@@ -5,10 +5,10 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Pronia.Migrations
 {
-    /// <inheritdoc />
+
     public partial class CreatedSlidersTable : Migration
     {
-        /// <inheritdoc />
+
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
@@ -30,7 +30,7 @@ namespace Pronia.Migrations
                 });
         }
 
-        /// <inheritdoc />
+   
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
